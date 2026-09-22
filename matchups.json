@@ -2,115 +2,115 @@
   "league": "The NixonHouse Gang",
   "leagueId": 298051,
   "season": 2026,
-  "updated": "2026-09-22T00:29:52.702Z",
+  "updated": "2026-09-22T11:43:41.627Z",
   "teams": [
     {
       "Team ID": 1,
       "Team Name": "Bunni's Bullies",
       "Abbrev": "BB",
-      "Wins": 1,
+      "Wins": 2,
       "Losses": 0,
       "Ties": 0,
-      "Points For": 159.9
+      "Points For": 265.08000000000004
     },
     {
       "Team ID": 2,
       "Team Name": "Comeback Kings",
       "Abbrev": "CK",
       "Wins": 0,
-      "Losses": 1,
+      "Losses": 2,
       "Ties": 0,
-      "Points For": 110.46
+      "Points For": 193.45999999999998
     },
     {
       "Team ID": 3,
       "Team Name": "MIDL BABY",
       "Abbrev": "MBBY",
-      "Wins": 0,
+      "Wins": 1,
       "Losses": 1,
       "Ties": 0,
-      "Points For": 106
+      "Points For": 234.26
     },
     {
       "Team ID": 4,
       "Team Name": "Fortuitous Farts",
       "Abbrev": "Fart",
       "Wins": 0,
-      "Losses": 1,
+      "Losses": 2,
       "Ties": 0,
-      "Points For": 145.12
+      "Points For": 223.68
     },
     {
       "Team ID": 5,
       "Team Name": "The Cherry Pickers",
       "Abbrev": "TCP",
       "Wins": 0,
-      "Losses": 1,
+      "Losses": 2,
       "Ties": 0,
-      "Points For": 137.2
+      "Points For": 263.28
     },
     {
       "Team ID": 6,
       "Team Name": "The Wine(ers) Man oh Man!",
       "Abbrev": "KR",
       "Wins": 0,
-      "Losses": 1,
+      "Losses": 2,
       "Ties": 0,
-      "Points For": 117.86
+      "Points For": 204.74
     },
     {
       "Team ID": 7,
       "Team Name": "No Place Like Mahomes",
       "Abbrev": "PAT",
       "Wins": 1,
-      "Losses": 0,
+      "Losses": 1,
       "Ties": 0,
-      "Points For": 120.32
+      "Points For": 222.24
     },
     {
       "Team ID": 9,
       "Team Name": "Prettybug Piranhas",
       "Abbrev": "PBP",
       "Wins": 1,
-      "Losses": 0,
+      "Losses": 1,
       "Ties": 0,
-      "Points For": 119.36
+      "Points For": 254
     },
     {
       "Team ID": 10,
       "Team Name": "Team J-E-T-S Jets! ",
       "Abbrev": "DNix",
-      "Wins": 0,
+      "Wins": 1,
       "Losses": 1,
       "Ties": 0,
-      "Points For": 93.04
+      "Points For": 251.01999999999998
     },
     {
       "Team ID": 11,
       "Team Name": "Pepperoni Pizza",
       "Abbrev": "Pep",
-      "Wins": 1,
+      "Wins": 2,
       "Losses": 0,
       "Ties": 0,
-      "Points For": 131.56
+      "Points For": 269.18
     },
     {
       "Team ID": 12,
       "Team Name": "Okay, Boomer!",
       "Abbrev": "OKB",
-      "Wins": 1,
+      "Wins": 2,
       "Losses": 0,
       "Ties": 0,
-      "Points For": 141.46
+      "Points For": 264.68
     },
     {
       "Team ID": 13,
       "Team Name": "Auto-Draft All Stars",
       "Abbrev": "ADAS",
-      "Wins": 1,
+      "Wins": 2,
       "Losses": 0,
       "Ties": 0,
-      "Points For": 138.3
+      "Points For": 243.56
     }
   ],
   "matchups": [
@@ -180,19 +180,19 @@
       "Home Team": "Team J-E-T-S Jets! ",
       "Home Score": 157.98,
       "Away Team": "The Wine(ers) Man oh Man!",
-      "Away Score": 85.78,
+      "Away Score": 86.88,
       "Winner": "Team J-E-T-S Jets! ",
-      "Margin": 72.2
+      "Margin": 71.1
     },
     {
       "Week": 2,
       "Matchup ID": 8,
       "Home Team": "Pepperoni Pizza",
-      "Home Score": 97.12,
+      "Home Score": 137.62,
       "Away Team": "Prettybug Piranhas",
       "Away Score": 134.64,
-      "Winner": "Prettybug Piranhas",
-      "Margin": 37.52
+      "Winner": "Pepperoni Pizza",
+      "Margin": 2.98
     },
     {
       "Week": 2,
@@ -208,11 +208,11 @@
       "Week": 2,
       "Matchup ID": 10,
       "Home Team": "Bunni's Bullies",
-      "Home Score": 77.28,
+      "Home Score": 105.18,
       "Away Team": "Comeback Kings",
       "Away Score": 83,
-      "Winner": "Comeback Kings",
-      "Margin": 5.72
+      "Winner": "Bunni's Bullies",
+      "Margin": 22.18
     },
     {
       "Week": 2,
@@ -228,11 +228,71 @@
       "Week": 2,
       "Matchup ID": 12,
       "Home Team": "Okay, Boomer!",
-      "Home Score": 109.02,
+      "Home Score": 123.22,
       "Away Team": "Fortuitous Farts",
-      "Away Score": 76.56,
+      "Away Score": 78.56,
       "Winner": "Okay, Boomer!",
-      "Margin": 32.46
+      "Margin": 44.66
+    },
+    {
+      "Week": 3,
+      "Matchup ID": 13,
+      "Home Team": "Pepperoni Pizza",
+      "Home Score": 0,
+      "Away Team": "Team J-E-T-S Jets! ",
+      "Away Score": 0,
+      "Winner": "TIE",
+      "Margin": 0
+    },
+    {
+      "Week": 3,
+      "Matchup ID": 14,
+      "Home Team": "The Wine(ers) Man oh Man!",
+      "Home Score": 0,
+      "Away Team": "Auto-Draft All Stars",
+      "Away Score": 0,
+      "Winner": "TIE",
+      "Margin": 0
+    },
+    {
+      "Week": 3,
+      "Matchup ID": 15,
+      "Home Team": "Prettybug Piranhas",
+      "Home Score": 0,
+      "Away Team": "Bunni's Bullies",
+      "Away Score": 0,
+      "Winner": "TIE",
+      "Margin": 0
+    },
+    {
+      "Week": 3,
+      "Matchup ID": 16,
+      "Home Team": "No Place Like Mahomes",
+      "Home Score": 0,
+      "Away Team": "The Cherry Pickers",
+      "Away Score": 0,
+      "Winner": "TIE",
+      "Margin": 0
+    },
+    {
+      "Week": 3,
+      "Matchup ID": 17,
+      "Home Team": "Comeback Kings",
+      "Home Score": 0,
+      "Away Team": "Okay, Boomer!",
+      "Away Score": 0,
+      "Winner": "TIE",
+      "Margin": 0
+    },
+    {
+      "Week": 3,
+      "Matchup ID": 18,
+      "Home Team": "MIDL BABY",
+      "Home Score": 0,
+      "Away Team": "Fortuitous Farts",
+      "Away Score": 0,
+      "Winner": "TIE",
+      "Margin": 0
     }
   ]
 }
