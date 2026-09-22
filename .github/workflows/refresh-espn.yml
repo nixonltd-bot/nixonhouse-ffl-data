@@ -3,8 +3,7 @@ name: Refresh ESPN Fantasy Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 11 * * 2'
-    - cron: '45 11 * * 2'
+    - cron: '0 12 * * 2'
 
 permissions:
   contents: write
