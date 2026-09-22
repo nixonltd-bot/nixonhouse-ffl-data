@@ -15,6 +15,12 @@ async function getJson(url) {
   return r.json();
 }
 
+function pickScore(side) {
+  const live = Number(side?.totalPointsLive ?? 0);
+  const final = Number(side?.totalPoints ?? 0);
+  return live > 0 ? live : final;
+}
+
 (async () => {
   const league = await getJson(BASE_URL + '?view=mTeam&view=mStandings&view=mStatus');
   const currentWeek = Number(league.scoringPeriodId || 1);
@@ -36,8 +42,8 @@ async function getJson(url) {
   for (let week = 1; week <= currentWeek; week++) {
     const data = await getJson(BASE_URL + `?view=mScoreboard&view=mMatchupScore&scoringPeriodId=${week}&matchupPeriodId=${week}`);
     for (const g of (data.schedule || []).filter(x => Number(x.matchupPeriodId) === week)) {
-      const hs = Number(g.home?.totalPointsLive ?? g.home?.totalPoints ?? 0);
-      const as = Number(g.away?.totalPointsLive ?? g.away?.totalPoints ?? 0);
+      const hs = pickScore(g.home);
+      const as = pickScore(g.away);
       const hn = teamsById[g.home?.teamId] || `Team ${g.home?.teamId}`;
       const an = teamsById[g.away?.teamId] || `Team ${g.away?.teamId}`;
       matchups.push({
