@@ -1,0 +1,32 @@
+name: Refresh ESPN Fantasy Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 11 * * 2'
+    - cron: '45 11 * * 2'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Pull current ESPN league data
+        run: node scripts/update-espn.js
+      - name: Commit refreshed data
+        run: |
+          git config user.name "nixonhouse-ffl-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add matchups.json
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Refresh ESPN fantasy data"
+            git push
+          fi
