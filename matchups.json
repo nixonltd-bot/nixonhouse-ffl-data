@@ -2,7 +2,7 @@
   "league": "The NixonHouse Gang",
   "leagueId": 298051,
   "season": 2026,
-  "updated": "2026-09-22T11:43:41.627Z",
+  "updated": "2026-09-22T19:10:52.430Z",
   "teams": [
     {
       "Team ID": 1,
@@ -78,7 +78,7 @@
     },
     {
       "Team ID": 10,
-      "Team Name": "Team J-E-T-S Jets! ",
+      "Team Name": "Team J-E-T-S Jets!",
       "Abbrev": "DNix",
       "Wins": 1,
       "Losses": 1,
@@ -119,7 +119,7 @@
       "Matchup ID": 1,
       "Home Team": "Prettybug Piranhas",
       "Home Score": 119.36,
-      "Away Team": "Team J-E-T-S Jets! ",
+      "Away Team": "Team J-E-T-S Jets!",
       "Away Score": 93.04,
       "Winner": "Prettybug Piranhas",
       "Margin": 26.32
@@ -177,11 +177,11 @@
     {
       "Week": 2,
       "Matchup ID": 7,
-      "Home Team": "Team J-E-T-S Jets! ",
+      "Home Team": "Team J-E-T-S Jets!",
       "Home Score": 157.98,
       "Away Team": "The Wine(ers) Man oh Man!",
       "Away Score": 86.88,
-      "Winner": "Team J-E-T-S Jets! ",
+      "Winner": "Team J-E-T-S Jets!",
       "Margin": 71.1
     },
     {
@@ -239,7 +239,7 @@
       "Matchup ID": 13,
       "Home Team": "Pepperoni Pizza",
       "Home Score": 0,
-      "Away Team": "Team J-E-T-S Jets! ",
+      "Away Team": "Team J-E-T-S Jets!",
       "Away Score": 0,
       "Winner": "TIE",
       "Margin": 0
