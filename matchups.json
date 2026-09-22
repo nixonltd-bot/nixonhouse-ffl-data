@@ -2,7 +2,7 @@
   "league": "The NixonHouse Gang",
   "leagueId": 298051,
   "season": 2026,
-  "updated": "2026-09-22T00:26:32.600Z",
+  "updated": "2026-09-22T00:29:52.702Z",
   "teams": [
     {
       "Team ID": 1,
@@ -122,7 +122,7 @@
       "Away Team": "Team J-E-T-S Jets! ",
       "Away Score": 93.04,
       "Winner": "Prettybug Piranhas",
-      "Margin": 26.319999999999993
+      "Margin": 26.32
     },
     {
       "Week": 1,
@@ -132,7 +132,7 @@
       "Away Team": "The Wine(ers) Man oh Man!",
       "Away Score": 117.86,
       "Winner": "No Place Like Mahomes",
-      "Margin": 2.4599999999999937
+      "Margin": 2.46
     },
     {
       "Week": 1,
@@ -142,7 +142,7 @@
       "Away Team": "Pepperoni Pizza",
       "Away Score": 131.56,
       "Winner": "Pepperoni Pizza",
-      "Margin": 21.10000000000001
+      "Margin": 21.1
     },
     {
       "Week": 1,
@@ -152,7 +152,7 @@
       "Away Team": "Auto-Draft All Stars",
       "Away Score": 138.3,
       "Winner": "Auto-Draft All Stars",
-      "Margin": 32.30000000000001
+      "Margin": 32.3
     },
     {
       "Week": 1,
@@ -162,7 +162,7 @@
       "Away Team": "Bunni's Bullies",
       "Away Score": 159.9,
       "Winner": "Bunni's Bullies",
-      "Margin": 14.780000000000001
+      "Margin": 14.78
     },
     {
       "Week": 1,
@@ -172,787 +172,67 @@
       "Away Team": "The Cherry Pickers",
       "Away Score": 137.2,
       "Winner": "Okay, Boomer!",
-      "Margin": 4.260000000000019
+      "Margin": 4.26
     },
     {
       "Week": 2,
       "Matchup ID": 7,
       "Home Team": "Team J-E-T-S Jets! ",
-      "Home Score": 0,
+      "Home Score": 157.98,
       "Away Team": "The Wine(ers) Man oh Man!",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
+      "Away Score": 85.78,
+      "Winner": "Team J-E-T-S Jets! ",
+      "Margin": 72.2
     },
     {
       "Week": 2,
       "Matchup ID": 8,
       "Home Team": "Pepperoni Pizza",
-      "Home Score": 0,
+      "Home Score": 97.12,
       "Away Team": "Prettybug Piranhas",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
+      "Away Score": 134.64,
+      "Winner": "Prettybug Piranhas",
+      "Margin": 37.52
     },
     {
       "Week": 2,
       "Matchup ID": 9,
       "Home Team": "Auto-Draft All Stars",
-      "Home Score": 0,
+      "Home Score": 105.26,
       "Away Team": "No Place Like Mahomes",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
+      "Away Score": 101.92,
+      "Winner": "Auto-Draft All Stars",
+      "Margin": 3.34
     },
     {
       "Week": 2,
       "Matchup ID": 10,
       "Home Team": "Bunni's Bullies",
-      "Home Score": 0,
+      "Home Score": 77.28,
       "Away Team": "Comeback Kings",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
+      "Away Score": 83,
+      "Winner": "Comeback Kings",
+      "Margin": 5.72
     },
     {
       "Week": 2,
       "Matchup ID": 11,
       "Home Team": "The Cherry Pickers",
-      "Home Score": 0,
+      "Home Score": 126.08,
       "Away Team": "MIDL BABY",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
+      "Away Score": 128.26,
+      "Winner": "MIDL BABY",
+      "Margin": 2.18
     },
     {
       "Week": 2,
       "Matchup ID": 12,
       "Home Team": "Okay, Boomer!",
-      "Home Score": 0,
+      "Home Score": 109.02,
       "Away Team": "Fortuitous Farts",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 3,
-      "Matchup ID": 13,
-      "Home Team": "Pepperoni Pizza",
-      "Home Score": 0,
-      "Away Team": "Team J-E-T-S Jets! ",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 3,
-      "Matchup ID": 14,
-      "Home Team": "The Wine(ers) Man oh Man!",
-      "Home Score": 0,
-      "Away Team": "Auto-Draft All Stars",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 3,
-      "Matchup ID": 15,
-      "Home Team": "Prettybug Piranhas",
-      "Home Score": 0,
-      "Away Team": "Bunni's Bullies",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 3,
-      "Matchup ID": 16,
-      "Home Team": "No Place Like Mahomes",
-      "Home Score": 0,
-      "Away Team": "The Cherry Pickers",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 3,
-      "Matchup ID": 17,
-      "Home Team": "Comeback Kings",
-      "Home Score": 0,
-      "Away Team": "Okay, Boomer!",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 3,
-      "Matchup ID": 18,
-      "Home Team": "MIDL BABY",
-      "Home Score": 0,
-      "Away Team": "Fortuitous Farts",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 4,
-      "Matchup ID": 19,
-      "Home Team": "Team J-E-T-S Jets! ",
-      "Home Score": 0,
-      "Away Team": "Auto-Draft All Stars",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 4,
-      "Matchup ID": 20,
-      "Home Team": "Bunni's Bullies",
-      "Home Score": 0,
-      "Away Team": "Pepperoni Pizza",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 4,
-      "Matchup ID": 21,
-      "Home Team": "The Cherry Pickers",
-      "Home Score": 0,
-      "Away Team": "The Wine(ers) Man oh Man!",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 4,
-      "Matchup ID": 22,
-      "Home Team": "Okay, Boomer!",
-      "Home Score": 0,
-      "Away Team": "Prettybug Piranhas",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 4,
-      "Matchup ID": 23,
-      "Home Team": "Fortuitous Farts",
-      "Home Score": 0,
-      "Away Team": "No Place Like Mahomes",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 4,
-      "Matchup ID": 24,
-      "Home Team": "MIDL BABY",
-      "Home Score": 0,
-      "Away Team": "Comeback Kings",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 5,
-      "Matchup ID": 25,
-      "Home Team": "Bunni's Bullies",
-      "Home Score": 0,
-      "Away Team": "Team J-E-T-S Jets! ",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 5,
-      "Matchup ID": 26,
-      "Home Team": "Auto-Draft All Stars",
-      "Home Score": 0,
-      "Away Team": "The Cherry Pickers",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 5,
-      "Matchup ID": 27,
-      "Home Team": "Pepperoni Pizza",
-      "Home Score": 0,
-      "Away Team": "Okay, Boomer!",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 5,
-      "Matchup ID": 28,
-      "Home Team": "The Wine(ers) Man oh Man!",
-      "Home Score": 0,
-      "Away Team": "Fortuitous Farts",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 5,
-      "Matchup ID": 29,
-      "Home Team": "Prettybug Piranhas",
-      "Home Score": 0,
-      "Away Team": "MIDL BABY",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 5,
-      "Matchup ID": 30,
-      "Home Team": "No Place Like Mahomes",
-      "Home Score": 0,
-      "Away Team": "Comeback Kings",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 6,
-      "Matchup ID": 31,
-      "Home Team": "Team J-E-T-S Jets! ",
-      "Home Score": 0,
-      "Away Team": "The Cherry Pickers",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 6,
-      "Matchup ID": 32,
-      "Home Team": "Okay, Boomer!",
-      "Home Score": 0,
-      "Away Team": "Bunni's Bullies",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 6,
-      "Matchup ID": 33,
-      "Home Team": "Fortuitous Farts",
-      "Home Score": 0,
-      "Away Team": "Auto-Draft All Stars",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 6,
-      "Matchup ID": 34,
-      "Home Team": "MIDL BABY",
-      "Home Score": 0,
-      "Away Team": "Pepperoni Pizza",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 6,
-      "Matchup ID": 35,
-      "Home Team": "Comeback Kings",
-      "Home Score": 0,
-      "Away Team": "The Wine(ers) Man oh Man!",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 6,
-      "Matchup ID": 36,
-      "Home Team": "No Place Like Mahomes",
-      "Home Score": 0,
-      "Away Team": "Prettybug Piranhas",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 7,
-      "Matchup ID": 37,
-      "Home Team": "Okay, Boomer!",
-      "Home Score": 0,
-      "Away Team": "Team J-E-T-S Jets! ",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 7,
-      "Matchup ID": 38,
-      "Home Team": "The Cherry Pickers",
-      "Home Score": 0,
-      "Away Team": "Fortuitous Farts",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 7,
-      "Matchup ID": 39,
-      "Home Team": "Bunni's Bullies",
-      "Home Score": 0,
-      "Away Team": "MIDL BABY",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 7,
-      "Matchup ID": 40,
-      "Home Team": "Auto-Draft All Stars",
-      "Home Score": 0,
-      "Away Team": "Comeback Kings",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 7,
-      "Matchup ID": 41,
-      "Home Team": "Pepperoni Pizza",
-      "Home Score": 0,
-      "Away Team": "No Place Like Mahomes",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 7,
-      "Matchup ID": 42,
-      "Home Team": "The Wine(ers) Man oh Man!",
-      "Home Score": 0,
-      "Away Team": "Prettybug Piranhas",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 8,
-      "Matchup ID": 43,
-      "Home Team": "Team J-E-T-S Jets! ",
-      "Home Score": 0,
-      "Away Team": "Fortuitous Farts",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 8,
-      "Matchup ID": 44,
-      "Home Team": "MIDL BABY",
-      "Home Score": 0,
-      "Away Team": "Okay, Boomer!",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 8,
-      "Matchup ID": 45,
-      "Home Team": "Comeback Kings",
-      "Home Score": 0,
-      "Away Team": "The Cherry Pickers",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 8,
-      "Matchup ID": 46,
-      "Home Team": "No Place Like Mahomes",
-      "Home Score": 0,
-      "Away Team": "Bunni's Bullies",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 8,
-      "Matchup ID": 47,
-      "Home Team": "Prettybug Piranhas",
-      "Home Score": 0,
-      "Away Team": "Auto-Draft All Stars",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 8,
-      "Matchup ID": 48,
-      "Home Team": "The Wine(ers) Man oh Man!",
-      "Home Score": 0,
-      "Away Team": "Pepperoni Pizza",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 9,
-      "Matchup ID": 49,
-      "Home Team": "MIDL BABY",
-      "Home Score": 0,
-      "Away Team": "Team J-E-T-S Jets! ",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 9,
-      "Matchup ID": 50,
-      "Home Team": "Fortuitous Farts",
-      "Home Score": 0,
-      "Away Team": "Comeback Kings",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 9,
-      "Matchup ID": 51,
-      "Home Team": "Okay, Boomer!",
-      "Home Score": 0,
-      "Away Team": "No Place Like Mahomes",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 9,
-      "Matchup ID": 52,
-      "Home Team": "The Cherry Pickers",
-      "Home Score": 0,
-      "Away Team": "Prettybug Piranhas",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 9,
-      "Matchup ID": 53,
-      "Home Team": "Bunni's Bullies",
-      "Home Score": 0,
-      "Away Team": "The Wine(ers) Man oh Man!",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 9,
-      "Matchup ID": 54,
-      "Home Team": "Auto-Draft All Stars",
-      "Home Score": 0,
-      "Away Team": "Pepperoni Pizza",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 10,
-      "Matchup ID": 55,
-      "Home Team": "Team J-E-T-S Jets! ",
-      "Home Score": 0,
-      "Away Team": "Comeback Kings",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 10,
-      "Matchup ID": 56,
-      "Home Team": "No Place Like Mahomes",
-      "Home Score": 0,
-      "Away Team": "MIDL BABY",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 10,
-      "Matchup ID": 57,
-      "Home Team": "Prettybug Piranhas",
-      "Home Score": 0,
-      "Away Team": "Fortuitous Farts",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 10,
-      "Matchup ID": 58,
-      "Home Team": "The Wine(ers) Man oh Man!",
-      "Home Score": 0,
-      "Away Team": "Okay, Boomer!",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 10,
-      "Matchup ID": 59,
-      "Home Team": "Pepperoni Pizza",
-      "Home Score": 0,
-      "Away Team": "The Cherry Pickers",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 10,
-      "Matchup ID": 60,
-      "Home Team": "Auto-Draft All Stars",
-      "Home Score": 0,
-      "Away Team": "Bunni's Bullies",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 11,
-      "Matchup ID": 61,
-      "Home Team": "No Place Like Mahomes",
-      "Home Score": 0,
-      "Away Team": "Team J-E-T-S Jets! ",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 11,
-      "Matchup ID": 62,
-      "Home Team": "Comeback Kings",
-      "Home Score": 0,
-      "Away Team": "Prettybug Piranhas",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 11,
-      "Matchup ID": 63,
-      "Home Team": "MIDL BABY",
-      "Home Score": 0,
-      "Away Team": "The Wine(ers) Man oh Man!",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 11,
-      "Matchup ID": 64,
-      "Home Team": "Fortuitous Farts",
-      "Home Score": 0,
-      "Away Team": "Pepperoni Pizza",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 11,
-      "Matchup ID": 65,
-      "Home Team": "Okay, Boomer!",
-      "Home Score": 0,
-      "Away Team": "Auto-Draft All Stars",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 11,
-      "Matchup ID": 66,
-      "Home Team": "The Cherry Pickers",
-      "Home Score": 0,
-      "Away Team": "Bunni's Bullies",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 12,
-      "Matchup ID": 67,
-      "Home Team": "Team J-E-T-S Jets! ",
-      "Home Score": 0,
-      "Away Team": "Prettybug Piranhas",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 12,
-      "Matchup ID": 68,
-      "Home Team": "The Wine(ers) Man oh Man!",
-      "Home Score": 0,
-      "Away Team": "No Place Like Mahomes",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 12,
-      "Matchup ID": 69,
-      "Home Team": "Pepperoni Pizza",
-      "Home Score": 0,
-      "Away Team": "Comeback Kings",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 12,
-      "Matchup ID": 70,
-      "Home Team": "Auto-Draft All Stars",
-      "Home Score": 0,
-      "Away Team": "MIDL BABY",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 12,
-      "Matchup ID": 71,
-      "Home Team": "Bunni's Bullies",
-      "Home Score": 0,
-      "Away Team": "Fortuitous Farts",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 12,
-      "Matchup ID": 72,
-      "Home Team": "The Cherry Pickers",
-      "Home Score": 0,
-      "Away Team": "Okay, Boomer!",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 13,
-      "Matchup ID": 73,
-      "Home Team": "The Wine(ers) Man oh Man!",
-      "Home Score": 0,
-      "Away Team": "Team J-E-T-S Jets! ",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 13,
-      "Matchup ID": 74,
-      "Home Team": "Prettybug Piranhas",
-      "Home Score": 0,
-      "Away Team": "Pepperoni Pizza",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 13,
-      "Matchup ID": 75,
-      "Home Team": "No Place Like Mahomes",
-      "Home Score": 0,
-      "Away Team": "Auto-Draft All Stars",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 13,
-      "Matchup ID": 76,
-      "Home Team": "Comeback Kings",
-      "Home Score": 0,
-      "Away Team": "Bunni's Bullies",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 13,
-      "Matchup ID": 77,
-      "Home Team": "MIDL BABY",
-      "Home Score": 0,
-      "Away Team": "The Cherry Pickers",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 13,
-      "Matchup ID": 78,
-      "Home Team": "Fortuitous Farts",
-      "Home Score": 0,
-      "Away Team": "Okay, Boomer!",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 14,
-      "Matchup ID": 79,
-      "Home Team": "Team J-E-T-S Jets! ",
-      "Home Score": 0,
-      "Away Team": "Pepperoni Pizza",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 14,
-      "Matchup ID": 80,
-      "Home Team": "Auto-Draft All Stars",
-      "Home Score": 0,
-      "Away Team": "The Wine(ers) Man oh Man!",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 14,
-      "Matchup ID": 81,
-      "Home Team": "Bunni's Bullies",
-      "Home Score": 0,
-      "Away Team": "Prettybug Piranhas",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 14,
-      "Matchup ID": 82,
-      "Home Team": "The Cherry Pickers",
-      "Home Score": 0,
-      "Away Team": "No Place Like Mahomes",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 14,
-      "Matchup ID": 83,
-      "Home Team": "Okay, Boomer!",
-      "Home Score": 0,
-      "Away Team": "Comeback Kings",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
-    },
-    {
-      "Week": 14,
-      "Matchup ID": 84,
-      "Home Team": "Fortuitous Farts",
-      "Home Score": 0,
-      "Away Team": "MIDL BABY",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
+      "Away Score": 76.56,
+      "Winner": "Okay, Boomer!",
+      "Margin": 32.46
     }
   ]
 }
