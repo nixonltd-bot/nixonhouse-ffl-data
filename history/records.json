@@ -1,0 +1,180 @@
+{
+  "league": "The NixonHouse Gang",
+  "leagueId": 298051,
+  "coverage": "2015-2026",
+  "teamWeekScores": 1904,
+  "failures": [],
+  "highestSingleWeek": {
+    "season": 2024,
+    "week": 12,
+    "team": "Team J-E-T-S Jets!",
+    "opponent": "Fortuitous Farts",
+    "score": 212.9,
+    "opponentScore": 110.22,
+    "margin": 102.68,
+    "result": "W"
+  },
+  "top15": [
+    [
+      1,
+      212.9,
+      "Team J-E-T-S Jets!",
+      2024,
+      12,
+      "Fortuitous Farts",
+      110.22
+    ],
+    [
+      2,
+      199.12,
+      "Comeback Kings",
+      2023,
+      17,
+      "Team J-E-T-S Jets!",
+      140.46
+    ],
+    [
+      3,
+      190.92,
+      "Bunni's Bullies",
+      2024,
+      17,
+      "The Minions",
+      145.52
+    ],
+    [
+      4,
+      189.78,
+      "Team J-E-T-S Jets!",
+      2024,
+      3,
+      "Comeback Kings",
+      107.68
+    ],
+    [
+      5,
+      189.5,
+      "The Wine(ers) Man oh Man!",
+      2022,
+      8,
+      "Bunni's Bullies",
+      146.2
+    ],
+    [
+      6,
+      188.2,
+      "MIDL BABY",
+      2026,
+      4,
+      "Comeback Kings",
+      105.48
+    ],
+    [
+      7,
+      186.28,
+      "Comeback Kings",
+      2024,
+      14,
+      "Team J-E-T-S Jets!",
+      159.72
+    ],
+    [
+      8,
+      185.7,
+      "Fortuitous Farts",
+      2021,
+      1,
+      "Team J-E-T-S Jets!",
+      147.44
+    ],
+    [
+      9,
+      180.52,
+      "Style Pointz",
+      2025,
+      3,
+      "The Wine(ers) Man oh Man!",
+      116.22
+    ],
+    [
+      10,
+      180.46,
+      "Dursleyville Readers",
+      2021,
+      5,
+      "Fortuitous Farts",
+      153.58
+    ],
+    [
+      11,
+      179.78,
+      "No Place Like Mahomes",
+      2022,
+      2,
+      "Prettybug Piranhas",
+      146.86
+    ],
+    [
+      12,
+      178.38,
+      "Comeback Kings",
+      2023,
+      10,
+      "BOTTOM FEEDERS",
+      166.68
+    ],
+    [
+      13,
+      175.98,
+      "No Place Like Mahomes",
+      2022,
+      8,
+      "Team J-E-T-S Jets!",
+      137
+    ],
+    [
+      14,
+      175.16,
+      "Team J-E-T-S Jets!",
+      2023,
+      3,
+      "Prettybug Piranhas",
+      148
+    ],
+    [
+      15,
+      175.12,
+      "Dursleyville Readers",
+      2023,
+      5,
+      "Fortuitous Farts",
+      111.94
+    ]
+  ],
+  "highestScoreInLoss": {
+    "season": 2023,
+    "week": 10,
+    "team": "BOTTOM FEEDERS",
+    "score": 166.68,
+    "opponent": "Comeback Kings",
+    "opponentScore": 178.38
+  },
+  "biggestBlowout": {
+    "season": 2022,
+    "week": 11,
+    "team": "LIONS NOT SHEEP",
+    "score": 154.78,
+    "opponent": "Fortuitous Farts",
+    "opponentScore": 38.6,
+    "margin": 116.18
+  },
+  "closestGame": {
+    "season": 2019,
+    "week": 7,
+    "team": "Fortuitous Farts",
+    "score": 98.06,
+    "opponent": "Caitlyn And the boys",
+    "opponentScore": 98.04,
+    "margin": 0.02
+  }
+}
