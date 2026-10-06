@@ -1,0 +1,33 @@
+name: Backfill NixonHouse League History
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/backfill-history.js'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Pull ESPN history 2015-2026
+        run: node scripts/backfill-history.js
+      - name: Commit historical data
+        run: |
+          git config user.name "nixonhouse-ffl-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add history/
+          if git diff --cached --quiet; then
+            echo "No historical data changes."
+          else
+            git commit -m "Backfill NixonHouse league history"
+            git push
+          fi
