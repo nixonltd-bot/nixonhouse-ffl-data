@@ -2,115 +2,115 @@
   "league": "The NixonHouse Gang",
   "leagueId": 298051,
   "season": 2026,
-  "updated": "2026-10-13T12:10:56.218Z",
+  "updated": "2026-10-20T11:30:33.959Z",
   "teams": [
     {
       "Team ID": 1,
       "Team Name": "Bunni's Bullies",
       "Abbrev": "BB",
       "Wins": 3,
-      "Losses": 2,
+      "Losses": 3,
       "Ties": 0,
-      "Points For": 695.54
+      "Points For": 789.02
     },
     {
       "Team ID": 2,
       "Team Name": "Comeback Kings",
       "Abbrev": "CK",
       "Wins": 2,
-      "Losses": 3,
+      "Losses": 4,
       "Ties": 0,
-      "Points For": 548.12
+      "Points For": 632.1
     },
     {
       "Team ID": 3,
       "Team Name": "MIDL BABY",
       "Abbrev": "MBBY",
       "Wins": 2,
-      "Losses": 3,
+      "Losses": 4,
       "Ties": 0,
-      "Points For": 644.84
+      "Points For": 717.36
     },
     {
       "Team ID": 4,
       "Team Name": "Fortuitous Farts",
       "Abbrev": "Fart",
       "Wins": 2,
-      "Losses": 3,
+      "Losses": 4,
       "Ties": 0,
-      "Points For": 610.72
+      "Points For": 711.22
     },
     {
       "Team ID": 5,
       "Team Name": "The Cherry Pickers",
       "Abbrev": "TCP",
       "Wins": 2,
-      "Losses": 3,
+      "Losses": 4,
       "Ties": 0,
-      "Points For": 634.8399999999999
+      "Points For": 756.8
     },
     {
       "Team ID": 6,
       "Team Name": "The Wine(ers) Man oh Man!",
       "Abbrev": "KR",
-      "Wins": 1,
+      "Wins": 2,
       "Losses": 4,
       "Ties": 0,
-      "Points For": 582.3800000000001
+      "Points For": 721.4200000000001
     },
     {
       "Team ID": 7,
       "Team Name": "No Place Like Mahomes",
       "Abbrev": "PAT",
       "Wins": 1,
-      "Losses": 4,
+      "Losses": 5,
       "Ties": 0,
-      "Points For": 551.94
+      "Points For": 651.6400000000001
     },
     {
       "Team ID": 9,
       "Team Name": "Prettybug Piranhas",
       "Abbrev": "PBP",
-      "Wins": 3,
+      "Wins": 4,
       "Losses": 2,
       "Ties": 0,
-      "Points For": 638.8199999999999
+      "Points For": 754.6199999999999
     },
     {
       "Team ID": 10,
-      "Team Name": "Team J-E-T-S Jets!",
+      "Team Name": "Team J-E-T-S Jets! ",
       "Abbrev": "DNix",
-      "Wins": 3,
+      "Wins": 4,
       "Losses": 2,
       "Ties": 0,
-      "Points For": 593.38
+      "Points For": 737.1
     },
     {
       "Team ID": 11,
       "Team Name": "Pepperoni Pizza",
       "Abbrev": "Pep",
-      "Wins": 4,
+      "Wins": 5,
       "Losses": 1,
       "Ties": 0,
-      "Points For": 710.66
+      "Points For": 795.06
     },
     {
       "Team ID": 12,
       "Team Name": "Okay, Boomer!",
       "Abbrev": "OKB",
-      "Wins": 3,
+      "Wins": 4,
       "Losses": 2,
       "Ties": 0,
-      "Points For": 528.9
+      "Points For": 645
     },
     {
       "Team ID": 13,
       "Team Name": "Auto-Draft All Stars",
       "Abbrev": "ADAS",
-      "Wins": 4,
+      "Wins": 5,
       "Losses": 1,
       "Ties": 0,
-      "Points For": 606.24
+      "Points For": 729.6800000000001
     }
   ],
   "matchups": [
@@ -119,7 +119,7 @@
       "Matchup ID": 1,
       "Home Team": "Prettybug Piranhas",
       "Home Score": 119.36,
-      "Away Team": "Team J-E-T-S Jets!",
+      "Away Team": "Team J-E-T-S Jets! ",
       "Away Score": 93.04,
       "Winner": "Prettybug Piranhas",
       "Margin": 26.32
@@ -177,11 +177,11 @@
     {
       "Week": 2,
       "Matchup ID": 7,
-      "Home Team": "Team J-E-T-S Jets!",
+      "Home Team": "Team J-E-T-S Jets! ",
       "Home Score": 157.98,
       "Away Team": "The Wine(ers) Man oh Man!",
       "Away Score": 86.88,
-      "Winner": "Team J-E-T-S Jets!",
+      "Winner": "Team J-E-T-S Jets! ",
       "Margin": 71.1
     },
     {
@@ -239,9 +239,9 @@
       "Matchup ID": 13,
       "Home Team": "Pepperoni Pizza",
       "Home Score": 118.56,
-      "Away Team": "Team J-E-T-S Jets!",
+      "Away Team": "Team J-E-T-S Jets! ",
       "Away Score": 123.74,
-      "Winner": "Team J-E-T-S Jets!",
+      "Winner": "Team J-E-T-S Jets! ",
       "Margin": 5.18
     },
     {
@@ -297,11 +297,11 @@
     {
       "Week": 4,
       "Matchup ID": 19,
-      "Home Team": "Team J-E-T-S Jets!",
+      "Home Team": "Team J-E-T-S Jets! ",
       "Home Score": 120.02,
       "Away Team": "Auto-Draft All Stars",
       "Away Score": 102.78,
-      "Winner": "Team J-E-T-S Jets!",
+      "Winner": "Team J-E-T-S Jets! ",
       "Margin": 17.24
     },
     {
@@ -359,7 +359,7 @@
       "Matchup ID": 25,
       "Home Team": "Bunni's Bullies",
       "Home Score": 182.02,
-      "Away Team": "Team J-E-T-S Jets!",
+      "Away Team": "Team J-E-T-S Jets! ",
       "Away Score": 98.6,
       "Winner": "Bunni's Bullies",
       "Margin": 83.42
@@ -417,57 +417,117 @@
     {
       "Week": 6,
       "Matchup ID": 31,
-      "Home Team": "Team J-E-T-S Jets!",
-      "Home Score": 0,
+      "Home Team": "Team J-E-T-S Jets! ",
+      "Home Score": 143.72,
       "Away Team": "The Cherry Pickers",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
+      "Away Score": 121.96,
+      "Winner": "Team J-E-T-S Jets! ",
+      "Margin": 21.76
     },
     {
       "Week": 6,
       "Matchup ID": 32,
       "Home Team": "Okay, Boomer!",
-      "Home Score": 0,
+      "Home Score": 116.1,
       "Away Team": "Bunni's Bullies",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
+      "Away Score": 93.48,
+      "Winner": "Okay, Boomer!",
+      "Margin": 22.62
     },
     {
       "Week": 6,
       "Matchup ID": 33,
       "Home Team": "Fortuitous Farts",
-      "Home Score": 0,
+      "Home Score": 100.5,
       "Away Team": "Auto-Draft All Stars",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
+      "Away Score": 123.44,
+      "Winner": "Auto-Draft All Stars",
+      "Margin": 22.94
     },
     {
       "Week": 6,
       "Matchup ID": 34,
       "Home Team": "MIDL BABY",
-      "Home Score": 0,
+      "Home Score": 72.52,
       "Away Team": "Pepperoni Pizza",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
+      "Away Score": 84.4,
+      "Winner": "Pepperoni Pizza",
+      "Margin": 11.88
     },
     {
       "Week": 6,
       "Matchup ID": 35,
       "Home Team": "Comeback Kings",
-      "Home Score": 0,
+      "Home Score": 83.98,
       "Away Team": "The Wine(ers) Man oh Man!",
-      "Away Score": 0,
-      "Winner": "TIE",
-      "Margin": 0
+      "Away Score": 139.04,
+      "Winner": "The Wine(ers) Man oh Man!",
+      "Margin": 55.06
     },
     {
       "Week": 6,
       "Matchup ID": 36,
       "Home Team": "No Place Like Mahomes",
+      "Home Score": 99.7,
+      "Away Team": "Prettybug Piranhas",
+      "Away Score": 115.8,
+      "Winner": "Prettybug Piranhas",
+      "Margin": 16.1
+    },
+    {
+      "Week": 7,
+      "Matchup ID": 37,
+      "Home Team": "Okay, Boomer!",
+      "Home Score": 0,
+      "Away Team": "Team J-E-T-S Jets! ",
+      "Away Score": 0,
+      "Winner": "TIE",
+      "Margin": 0
+    },
+    {
+      "Week": 7,
+      "Matchup ID": 38,
+      "Home Team": "The Cherry Pickers",
+      "Home Score": 0,
+      "Away Team": "Fortuitous Farts",
+      "Away Score": 0,
+      "Winner": "TIE",
+      "Margin": 0
+    },
+    {
+      "Week": 7,
+      "Matchup ID": 39,
+      "Home Team": "Bunni's Bullies",
+      "Home Score": 0,
+      "Away Team": "MIDL BABY",
+      "Away Score": 0,
+      "Winner": "TIE",
+      "Margin": 0
+    },
+    {
+      "Week": 7,
+      "Matchup ID": 40,
+      "Home Team": "Auto-Draft All Stars",
+      "Home Score": 0,
+      "Away Team": "Comeback Kings",
+      "Away Score": 0,
+      "Winner": "TIE",
+      "Margin": 0
+    },
+    {
+      "Week": 7,
+      "Matchup ID": 41,
+      "Home Team": "Pepperoni Pizza",
+      "Home Score": 0,
+      "Away Team": "No Place Like Mahomes",
+      "Away Score": 0,
+      "Winner": "TIE",
+      "Margin": 0
+    },
+    {
+      "Week": 7,
+      "Matchup ID": 42,
+      "Home Team": "The Wine(ers) Man oh Man!",
       "Home Score": 0,
       "Away Team": "Prettybug Piranhas",
       "Away Score": 0,
